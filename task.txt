@@ -1,0 +1,15 @@
+INFO:root:[2022-03-16 23:48:05.671179] Processing task started.
+INFO:root:[2022-03-16 23:48:07.462147] Connection to mailbox succesful.
+INFO:root:[2022-03-16 23:48:07.962292] File firma.png downloaded.
+INFO:root:[2022-03-16 23:48:08.244509] File logo.jpg downloaded.
+ERROR:root:[2022-03-16 23:48:08.589917] Image in D:\Descargas\firma.png was not processed.
+INFO:root:[2022-03-16 23:48:08.606594] Image in D:\Descargas\Foto14032022.jpg was processed successfully.
+ERROR:root:[2022-03-16 23:48:08.697564] Image in D:\Descargas\logo.jpg was not processed.
+INFO:root:[2022-03-16 23:48:10.527159] Notification email sent successfully.
+INFO:root:[2022-03-16 23:48:10.527159] Processing task finished.
+INFO:root:[2022-03-16 23:51:40.461610] Processing task started.
+INFO:root:[2022-03-16 23:51:41.753550] Connection to mailbox succesful.
+INFO:root:[2022-03-16 23:51:42.419100] File Foto14032022.jpg downloaded.
+INFO:root:[2022-03-16 23:51:42.773980] Image in D:\Descargas\Foto14032022.jpg was processed successfully.
+INFO:root:[2022-03-16 23:51:44.661237] Notification email sent successfully.
+INFO:root:[2022-03-16 23:51:44.661667] Processing task finished.

@@ -152,3 +152,6 @@ commands_for_powershell.txt
 
 #mail_scrapper
 mail_scrapper.py
+
+#backup.py
+backup.py
