@@ -13,7 +13,7 @@ Clone the repository in a your work folder.
 
 pip install -r requirements.txt
 
-### Create a environment file
+### Create an environment file
 
 You can create a .env file for project configuration. It must contain following variables:
 
